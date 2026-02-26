@@ -5,9 +5,19 @@ I specialize in onboarding, workflow mapping, UAT, data validation, and cross‑
 
 **Core skills:** SaaS implementation, requirements & AC, UAT scripts, defect triage, SQL (basic), JSON/API concepts, documentation, Excel/Smartsheet, JIRA/Confluence.
 
-**Featured repos:**  
-- `api-samples` – JSON request/response examples  
-- `uat-test-cases` – UAT test template + defect log  
-- `integration-troubleshooting` – checklist for reproducible triage  
-- `sql-tableau-portfolio` – SQL + viz samples  
-- `cdm-validator-python` – logic exercises  
+### Featured repos
+
+- **api-samples** – JSON request/response examples  
+  👉 https://github.com/LMartos/api-samples
+
+- **uat-test-cases** – UAT test template + defect log  
+  👉 https://github.com/LMartos/uat-test-cases
+
+- **integration-troubleshooting** – checklist for reproducible triage  
+  👉 https://github.com/LMartos/integration-troubleshooting
+
+- **sql-tableau-portfolio** – SQL + viz samples  
+  👉 https://github.com/LMartos/sql-tableau-portfolio
+
+- **cdm-validator-python** – logic exercises  
+  👉 https://github.com/LMartos/cdm-validator-python
