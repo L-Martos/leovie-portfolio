@@ -21,3 +21,11 @@ I specialize in onboarding, workflow mapping, UAT, data validation, and cross‑
 
 - **cdm-validator-python** – logic exercises  
   👉 https://github.com/LMartos/cdm-validator-python
+---
+
+---
+
+**Contact**  
+📫 Email: lmartos16@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/leovie_m 
+💻 GitHub: https://github.com/LMartos
