@@ -28,4 +28,4 @@ I specialize in onboarding, workflow mapping, UAT, data validation, and cross‑
 **Contact**  
 📫 Email: lmartos16@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/leovie_m 
-💻 GitHub: https://github.com/LMartos
+💻 GitHub: https://github.com/L-Martos
