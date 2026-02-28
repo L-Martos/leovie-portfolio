@@ -1,31 +1,21 @@
-# Hi, I'm Leovie 👋
+Hi, I'm Leovie 👋
 
-Implementation & Systems Analyst transitioning into fintech and SaaS implementation.  
-I specialize in onboarding, workflow mapping, UAT, data validation, and cross‑functional troubleshooting.
+Implementation & Systems Analyst transitioning into FinTech and AI-driven SaaS platforms.
 
-**Core skills:** SaaS implementation, requirements & AC, UAT scripts, defect triage, SQL (basic), JSON/API concepts, documentation, Excel/Smartsheet, JIRA/Confluence.
+I specialize in workflow analysis, onboarding, UAT validation, data quality, and cross-functional troubleshooting — now applying these skills to build practical AI tools for risk detection, workflow auditing, and operational automation.
 
-### Featured repos
+Background in healthcare revenue integrity with strong experience in compliance-driven environments, translating complex business processes into scalable system solutions.
 
-- **api-samples** – JSON request/response examples  
-  👉 https://github.com/LMartos/api-samples
+Core Skills:
+• SaaS Implementation & Onboarding
+• Workflow Mapping & UAT Testing
+• Data Validation & Exception Analysis
+• SQL (basic), APIs & JSON concepts
+• AI-assisted application development (Python + Streamlit)
+• Documentation, Jira, Confluence, Excel/Smartsheet
 
-- **uat-test-cases** – UAT test template + defect log  
-  👉 https://github.com/LMartos/uat-test-cases
-
-- **integration-troubleshooting** – checklist for reproducible triage  
-  👉 https://github.com/LMartos/integration-troubleshooting
-
-- **sql-tableau-portfolio** – SQL + viz samples  
-  👉 https://github.com/LMartos/sql-tableau-portfolio
-
-- **cdm-validator-python** – logic exercises  
-  👉 https://github.com/LMartos/cdm-validator-python
----
-
----
-
-**Contact**  
-📫 Email: lmartos16@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/leovie_m 
-💻 GitHub: https://github.com/L-Martos
+Currently building AI portfolio projects focused on:
+• Workflow auditing
+• Exception detection
+• Data quality automation
+• Risk analysis tools
