@@ -63,6 +63,21 @@ My background in healthcare revenue integrity and QA/compliance shaped how I app
 - GitHub documentation workflows
 
 ---
+---
+
+## 🧭 Learning & Engineering Journey
+
+My repositories reflect a progression from operational problem-solving into technical system design.
+
+| Stage | Project | Focus |
+|------|-------|------|
+| 🧩 Troubleshooting | integration-troubleshooting | Structured issue triage workflow |
+| 🔌 API Fundamentals | api-samples | Request/response & payload validation |
+| 📊 Data Validation | sql-tableau-portfolio | Data logic & analysis thinking |
+| 🐍 Automation | cdm-validator-python | Python validation logic |
+| 🤖 AI Applications | ai-exception-detector | AI-assisted operational auditing |
+
+Each project builds toward Solutions Engineering and Integration Architecture capabilities.
 
 ## 🎯 Current Focus
 
