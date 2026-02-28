@@ -36,3 +36,23 @@ My background in healthcare revenue integrity and QA/compliance shaped how I app
 - Building small AI & automation tools
 - Strengthening API integration skills
 - Moving toward Solutions Engineer / Solutions Architect roles
+
+---
+
+## 🧠 Systems & Integration Skill Map
+
+```mermaid
+flowchart LR
+
+A[Business Workflow] --> B[Implementation & Onboarding]
+B --> C[API Integrations]
+C --> D[Data Validation]
+D --> E[Troubleshooting & Root Cause Analysis]
+E --> F[Automation & AI Tools]
+
+style A fill:#1f77b4,color:#fff
+style B fill:#2ca02c,color:#fff
+style C fill:#ff7f0e,color:#fff
+style D fill:#9467bd,color:#fff
+style E fill:#d62728,color:#fff
+style F fill:#17becf,color:#fff
