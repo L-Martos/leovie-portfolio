@@ -4,6 +4,39 @@ Implementation & Systems Analyst transitioning into **Solutions Engineering and 
 
 I specialize in translating business workflows into technical solutions — including onboarding, integrations, data validation, troubleshooting, and automation.
 
+---
+
+## 🚀 What I Build
+
+I focus on real-world system workflows that bridge business operations and technical implementation.
+
+### 🧩 Implementation & Integration
+- API onboarding & payload validation
+- Workflow mapping and troubleshooting
+- UAT testing & defect triage
+- Cross-system data validation
+
+### 🤖 Automation & AI
+- AI-assisted workflow auditing
+- Data exception detection tools
+- Process automation prototypes using Python & Streamlit
+
+### 📊 Data & Analysis
+- SQL validation logic
+- Data quality checks
+- Operational analytics thinking
+
+---
+
+## 🧠 Engineering Direction
+
+Currently expanding toward:
+
+- Solutions Engineering
+- Integration Architecture
+- AI-assisted Operations
+- SaaS Implementation Engineering
+
 My background in healthcare revenue integrity and QA/compliance shaped how I approach systems:
 
 - structured validation
