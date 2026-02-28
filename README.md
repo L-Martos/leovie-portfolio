@@ -1,18 +1,38 @@
-Hi, I'm Leovie 👋
+# Hi, I'm Leovie 👋
 
-Systems & Automation Analyst transitioning into Solutions Architecture and AI-driven workflow automation.
+Implementation & Systems Analyst transitioning into **Solutions Engineering and SaaS Architecture**.
 
-I combine healthcare operations expertise with technical problem-solving to design reliable system workflows and prevent data and integration failures.
+I specialize in translating business workflows into technical solutions — including onboarding, integrations, data validation, troubleshooting, and automation.
 
-Focus Areas:
-• SaaS implementations & integrations
-• Workflow troubleshooting & root cause analysis
-• Data validation & UAT strategy
-• Python automation & AI-assisted tools
-• API concepts & system design
+My background in healthcare revenue integrity and QA/compliance shaped how I approach systems:
 
-Background:
-Revenue Integrity & operational analytics → technical systems and automation.
+- structured validation
+- root cause analysis
+- clean documentation
+- reproducible troubleshooting workflows
 
-Career Direction:
-Integration Engineering | Solutions Engineering | Solutions Architecture
+---
+
+## 🔧 Core Skills
+
+**Implementation & Integration**
+- SaaS onboarding
+- Workflow mapping
+- UAT testing & defect triage
+- API troubleshooting
+- Cross-functional issue resolution
+
+**Technical Foundations**
+- SQL (basic)
+- JSON & API concepts
+- Python automation (learning)
+- Data validation logic
+- GitHub documentation workflows
+
+---
+
+## 🎯 Current Focus
+
+- Building small AI & automation tools
+- Strengthening API integration skills
+- Moving toward Solutions Engineer / Solutions Architect roles
