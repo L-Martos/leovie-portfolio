@@ -1,63 +1,63 @@
 # Hi, I'm Leovie 👋
 
-Implementation & Systems Analyst evolving into Solutions Engineering and Integration Architecture.
+Implementation & Systems Analyst transitioning into **Solutions Engineering and Integration Architecture**.
 
-I specialize in troubleshooting workflows, API integrations, data validation, and translating operational problems into scalable technical solutions. My work focuses on bridging business operations and engineering teams through structured analysis, system thinking, and automation.
-
-I specialize in translating business workflows into technical solutions — including onboarding, integrations, data validation, troubleshooting, and automation.
+I specialize in translating business workflows into technical solutions through troubleshooting, API integrations, data validation, and automation. My work focuses on bridging operations and engineering teams using structured analysis, system thinking, and reproducible workflows.
 
 ---
 
 ## 🚀 What I Build
 
-I focus on real-world system workflows that bridge business operations and technical implementation.
+I focus on real-world system workflows that connect business operations with technical implementation.
 
 ### 🧩 Implementation & Integration
 - API onboarding & payload validation
 - Workflow mapping and troubleshooting
 - UAT testing & defect triage
 - Cross-system data validation
+- Integration issue investigation
 
 ### 🤖 Automation & AI
 - AI-assisted workflow auditing
 - Data exception detection tools
-- Process automation prototypes using Python & Streamlit
+- Python + Streamlit automation prototypes
 
-### 📊 Data & Analysis
+### 📊 Data & Validation
 - SQL validation logic
 - Data quality checks
 - Operational analytics thinking
+- Root-cause driven analysis
 
 ---
 
 ## 🧠 Engineering Direction
 
-Currently expanding toward:
+Currently growing toward:
 
 - Solutions Engineering
 - Integration Architecture
+- Implementation Engineering
 - AI-assisted Operations
-- SaaS Implementation Engineering
 
-My background in healthcare revenue integrity and QA/compliance shaped how I approach systems:
+My background in healthcare revenue integrity and QA/compliance influences how I design systems:
 
 - structured validation
 - root cause analysis
-- clean documentation
+- clear documentation
 - reproducible troubleshooting workflows
 
 ---
 
 ## 🔧 Core Skills
 
-**Implementation & Integration**
+### Implementation & Integration
 - SaaS onboarding
 - Workflow mapping
 - UAT testing & defect triage
 - API troubleshooting
 - Cross-functional issue resolution
 
-**Technical Foundations**
+### Technical Foundations
 - SQL (basic)
 - JSON & API concepts
 - Python automation (learning)
@@ -65,11 +65,10 @@ My background in healthcare revenue integrity and QA/compliance shaped how I app
 - GitHub documentation workflows
 
 ---
----
 
 ## 🧭 Learning & Engineering Journey
 
-My repositories reflect a progression from operational problem-solving into technical system design.
+My repositories show progression from operational problem-solving toward technical system design.
 
 | Stage | Project | Focus |
 |------|-------|------|
@@ -81,11 +80,14 @@ My repositories reflect a progression from operational problem-solving into tech
 
 Each project builds toward Solutions Engineering and Integration Architecture capabilities.
 
+---
+
 ## 🎯 Current Focus
 
-- Building small AI & automation tools
 - Strengthening API integration skills
-- Moving toward Solutions Engineer / Solutions Architect roles
+- Building automation and AI tools
+- Developing system design thinking
+- Transitioning into Solutions Engineer / Solutions Architect roles
 
 ---
 
