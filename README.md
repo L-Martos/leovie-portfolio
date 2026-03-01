@@ -1,6 +1,8 @@
 # Hi, I'm Leovie 👋
 
-Implementation & Systems Analyst transitioning into **Solutions Engineering and SaaS Architecture**.
+Implementation & Systems Analyst evolving into Solutions Engineering and Integration Architecture.
+
+I specialize in troubleshooting workflows, API integrations, data validation, and translating operational problems into scalable technical solutions. My work focuses on bridging business operations and engineering teams through structured analysis, system thinking, and automation.
 
 I specialize in translating business workflows into technical solutions — including onboarding, integrations, data validation, troubleshooting, and automation.
 
